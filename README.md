@@ -1,6 +1,6 @@
 <h1 align=center>
-+<img src="logo/midun.png" width=25%>
-+</h1>
+<img src="logo/midun.png" width=25%>
+</h1>
 
 # portfolio of graphic designer
 
