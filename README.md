@@ -1,3 +1,7 @@
+<h1 align=center>
++<img src="logo/midun.png" width=25%>
++</h1>
+
 # portfolio of graphic designer
 
-i am a graphic designer, I would like to show some of my contributions to the open source project.
+My name is T. Mirza Zulfan (midun) From Indonesia. I am a amateur graphic designer :), I would like to show some of my contributions to the open source project.
