@@ -11,3 +11,9 @@ My name is T. Mirza Zulfan (midun) From Indonesia. I am a amateur graphic design
 <h1 align=center>
 <img src="logo/cooger.png" width=100%>
 </h1>
+
+### 2. Logo Design For Nutmega
+
+<h1 align=center>
+<img src="logo/nutmega.png" width=100%>
+</h1>
