@@ -17,3 +17,9 @@ My name is T. Mirza Zulfan (midun) From Indonesia. I am a amateur graphic design
 <h1 align=center>
 <img src="logo/nutmega.png" width=100%>
 </h1>
+
+### 3. Logo Design For libdmusic
+
+<h1 align=center>
+<img src="logo/libdmusic.png" width=100%>
+</h1>
